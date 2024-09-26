@@ -29,4 +29,4 @@ Este repositório foi criado por mim para treinar a linguagem SQL. Ele contém u
 
 ## Consultas SQL
 
-As consultas SQL foram realizadas e estão salvas no arquivo `consultas.sql`, que também foi enviado para o GitHub.
+As consultas SQL foram realizadas e estão salvas no arquivo `consultas.sql`.
