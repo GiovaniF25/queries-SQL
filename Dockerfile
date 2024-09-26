@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Comando a ser executado quando o contêiner iniciar
-CMD ["python", "importador.py"]
+CMD ["python", "script.py"]
